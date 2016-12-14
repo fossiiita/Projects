@@ -1,17 +1,10 @@
-# Projects
+# Project Ideas
 
 > Please discuss your ideas of projects here. 
-Any student of iiita can suggest a project please submit an issue under the name and it will be discussed.
 
-# Ongoing projects 
+Any student of iiita can suggest a project please submit an [issue](https://github.com/fossiiita/Projects-and-Events/issues) under the name and add label idea.
 
-> On going projects under foss will be displayed here.
+# Projects contributing to 
 
-# Foss events
+If anyone wants help from foss IIITA for contribtuions please make an [issue](https://github.com/fossiiita/Projects-and-Events/issues) under the label Projects 
 
-1. [IIITA Hacks](https://github.com/iiitahacks)
-2. Workshop on linux.
-
-# Future events 
-
-> prs for future projects are welcome.
