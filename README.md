@@ -22,7 +22,7 @@
 
 # Want to be a of [help](https://github.com/fossiiita/Projects/subscription)? 
 
-Then Help out on projects check out the issues and our current [projects](https://github.com/fossiiita/Projects/blob/master/Projects.md) .
+Then Help out on projects check out the [issue](https://github.com/fossiiita/Projects-and-Events/issues) and our current [projects](https://github.com/fossiiita/Projects/blob/master/Projects.md) .
 
 > Anyone from IIITA could do so. Even if you are not in FOSS or a freshmen.
 
